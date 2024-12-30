@@ -11,7 +11,7 @@ This project detects drowsiness in real-time using a webcam and triggers an alar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drowsiness-detection.git
+   git clone https://github.com/GunjanBhanwal/DriveAlert.git
    cd drowsiness-detection
 
 2. Install dependencies:
